@@ -4,11 +4,11 @@ If have any Question, contect with me @ chenglin@gwu.edu
 
 install python3.7 or later and other needed packages
 
-provide 3 modle in CreateDates.py
+provide 3 modle in CreateDates.py\n
 
 can change these parameters in this system
 
-#orders data 
+#orders data
 ordersNumber
 itemKindsNumber
 aveItemsNum
