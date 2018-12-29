@@ -16,12 +16,12 @@ aveKindNum
 
 #cluster method Batch size
 clusterBatchNum
-# pick station number
+#pick station number
 stationNum
-# maxX and maxY is the size of warehouse
+#maxX and maxY is the size of warehouse
 maxX 
 maxY
-# Kiva vehicle number
+#Kiva vehicle number
 vehicleNum
 
 Run CreateDates.py
